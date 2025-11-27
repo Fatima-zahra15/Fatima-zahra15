@@ -3,20 +3,6 @@
 ### 💻 Interested in IT Governance • Systems Architecture • Cybersecurity • Cloud • Databases
 
 ---
-
-## 🚀 About Me
-
-I'm an IT Systems Management engineering student passionate about:
-
-- **IT Governance & IT Service Management**
-- **Database Design (MERISE, SQL, UML)**
-- **Web Development (HTML/CSS/JS)**
-- **Automation & Scripting (C, Python)**
-
-I love building clear, structured and well-documented projects that combine  
-**management + engineering + technology**.
----
-
 ## 🔧 Languages & Tools
 
 <p align="left">
@@ -32,7 +18,6 @@ I love building clear, structured and well-documented projects that combine
 </p>
 
 ---
-
 ## ⭐ Featured Project
 
 ### 🔹 **Web Application for Real-Time Incident Management**  
@@ -47,28 +32,6 @@ This application manages the **real-time reporting of road incidents**, covering
 - Follow-up workflow  
 - Resolution & reporting  
 ---
-
-## 🧰 Tech Stack
-
-### **Languages**
-- Python  
-- C  
-- HTML / CSS / JavaScript  
-
-### **Concepts**
-- IT Governance  
-- Systems Architecture  
-- MERISE Analysis & Design  
-
-### **Tools**
-- Git & GitHub  
-- VS Code
-- jupyter 
-- Canva  
-
----
-
-## 📫 Contact
 
 - 📧 **Email:** elwardifatimazahra877@gmail.com  
 - 💼 **LinkedIn:** www.linkedin.com/in/el-w-fatima-zahra-926099249  
